@@ -1,8 +1,9 @@
 # Twilio Anchore Python Library
 
-![Twilio Logo](https://www.twilio.com/docs/static/company/img/badges/red/twilio-badge-red.046b4a20c.png "Twilio")
+![Twilio Logo](https://www.twilio.com/docs/static/company/img/badges/red/twilio-badge-red.046b4a20c.png "Twilio")  
+[Anchore Engine](https://engine.anchore.io/docs/general/) is a container image static analysis security tool that allows finding vulnerabilities and also automates the analysis of images against user-defined checks/policies.
 
-Library developed in Python that facilitates the use of some features of the Anchore API.    
+Twilio-Anchore is library developed in Python that facilitates the use of some features of the Anchore API.    
 The main purpose of this library is to ease the execution of those Anchore API features that allow to check the security of container images, such as:
 - Get the information of the container images
 - Obtain the vulnerabilities of the container images
